@@ -1,11 +1,37 @@
-<div align="center">
+# classeTN
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A school workspace and conflict-free timetable builder designed for modern educational institutions.
 
-  <h1>Built with AI Studio</h2>
+## Overview
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+classeTN brings school operations and timetable planning into one coherent workspace. The project focuses on organizing educational information and producing schedules while keeping the interface clear for administrators, staff, and learners.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Highlights
 
-</div>
+- School workspace designed around institutional workflows.
+- Timetable builder with conflict-aware planning.
+- Data-oriented interface for managing school operations.
+- Responsive visual system suitable for education teams.
+
+## Technology
+
+The project description identifies the following stack:
+
+- React 18 and TypeScript
+- Tailwind CSS
+- Recharts
+- Express
+- Firebase Authentication
+- PostgreSQL through Cloud SQL
+
+## Project status
+
+This repository is a portfolio project demonstrating full-stack education product design, scheduling workflows, authentication, and data visualization.
+
+## License
+
+No license has been declared yet. Add a license before accepting external contributions or distributing the project.
+
+## Author
+
+**Bilel JM** — [GitHub](https://github.com/bilel11111)
